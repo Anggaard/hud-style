@@ -76,7 +76,7 @@ Dialog:Hudmode(playerid, response, listitem, inputtext[])
 				PlayerInfo[playerid][pHudmode] = 2;
 			}
 		}
-		else if(listitem == 1)
+		if(listitem == 1)
 		{
 			{
 				for(new i = 0; i < 4; i++)
