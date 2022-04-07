@@ -1,3 +1,2 @@
 # Baca
-- easyDialog
-wajib ada kalau gaada akalin aja sendiri pakai ondialog
+- jangan banyak tanya kalau ga tau ya cari tau
